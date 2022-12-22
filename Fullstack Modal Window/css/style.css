@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 body {
-    background-color: red;
+    background-color: yellow;
 }
 html {
     scroll-behavior: smooth;
@@ -33,7 +33,7 @@ a {
 header {
     position: fixed;
     width: 100%;
-    padding: 15px 0;
+    padding: 16px 0;
     background-color: coral;
     z-index: 2;
     transition: 0.5s;
